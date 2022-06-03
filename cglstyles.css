@@ -787,7 +787,7 @@ body.subpage{
 }
 #vertical{
   /*source: https://stackoverflow.com/questions/36029610/how-to-add-vertical-line-between-two-divs/36029731 fourth answer */
- height: 155%;
+ height: 182.5%;
  width: 4px;
  background: #DDAD91;
  top: 19%;
